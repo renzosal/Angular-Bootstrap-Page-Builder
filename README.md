@@ -9,4 +9,4 @@ Save Work in MongoDB
 Generate URL to share in progress work.
 
 
-![Screenshot](https://dl.dropboxusercontent.com/u/1814467/Screen%20Shot%202014-09-09%20at%2012.28.00%20PM.png "Bootstrap Builder")
+![Screenshot](https://dl.dropboxusercontent.com/u/1814467/Screen%20Shot%202014-09-09%20at%2012.32.28%20PM.png "Bootstrap Builder")
