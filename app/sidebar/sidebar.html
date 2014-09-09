@@ -1,0 +1,11 @@
+﻿        <div  data-ng-controller="sidebar as vm" id="components-drawer" class="drawer">
+            <div id="components-drawer-box">
+                <div class="container-fluid">
+                    <h3>{{vm.title}}</h3>
+                    <ul id="components-list" class="list-unstyled list-inline">
+                        <li data-pb-draggable data-ctype="{{key}}" ng-repeat="(key, data) in vm.components" id="{{data.id}}" class="component-item"><a>{{data.name}}</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /#components-drawer -->
